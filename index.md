@@ -1,5 +1,4 @@
-Alastair Blake Campbell
-=======================
+# Alastair Blake Campbell
 
 *alastair.campbell@runbox.no*
 *(+44) 7889 319122*
@@ -8,8 +7,7 @@ Alastair Blake Campbell
 Ryedale Road, Dumfries
 United Kingdom*
 
-Education
----------
+## Education
 
 2013-2015
 :   **BSc, Computing**; University of the West of Scotland (Dumfries)
@@ -19,10 +17,9 @@ Education
 (Dumfries)
 
 2006-2011
-:    Secondary School; Dumfries Academy (Dumfries)
+:    **Secondary School**; Dumfries Academy (Dumfries)
 
-Experience
-----------
+## Experience
 
 2015-Current
 **Systems Analyst / Programmer**, [Bibliographic Data Services, Ltd](www.bdslive.com).
@@ -49,22 +46,20 @@ hardware and software issues at our workshop. I performed tasks such as
 identifying and replacing faulty hardware components, diagnosing and fixing 
 issues with software/operating system configurations and similar.
 
-Technical Experience
---------------------
+## Other Technical Experience
 
-Gaming club management software, "Athena"
-:   I wrote a database/system for use by my local board games club to track 
+**Athena**, a club management system
+:	I wrote a database/system for use by my local board games club to track 
 	membership, events, payments, and so on. The project was written in php, 
 	with a MySQL backend database. 
 
-
-Programming Languages
-:   **C#:** I have worked extensively with C#, both professionally and as a 
+## Programming Languages
+:	**C#:** I have worked extensively with C#, both professionally and as a 
 		hobby, developing everything ranging from business applications, 
 		to games, from web forums to simple web servers. I am additionally 
 		fairly experienced with the .Net framework and popular NuGet extensions.
 	
-:   **Java:** I used Java for many projects at university and use it for a 
+:	**Java:** I used Java for many projects at university and use it for a 
 		few side projects in my own time. I am fairly supportive of open 
 		source projects, and I appreciate the cross-platform portability
 		possible with Java.
@@ -73,7 +68,7 @@ Programming Languages
 		development tools and languages, as well as common data transfer formats
 		such as XML, JSON and YAML.
 
-:   Basic knowledge of **C**, **C++**, **x86 assembly**, **php**, **Python**, **rust**...
+:   Basic knowledge of **C**, **C++**, **x86 assembly**, **Python**, **rust**...
 
 Other skills/experience 
 -----------------------
@@ -85,4 +80,4 @@ Other skills/experience
 
 * I am a touch typist and have a typing speed of around 100 words per minute.
 
-* Other sort of impressive-sounding thing you did
+* I am very experienced with *Vi* and know how to use *LaTeX*.
