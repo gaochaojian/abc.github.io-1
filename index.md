@@ -1,10 +1,11 @@
 # Alastair Blake Campbell
 
 *alastair.campbell@runbox.no*
+
 *(+44) 7889 319122*
 
-*43 Larchfield Road
-Dumfries
+*43 Larchfield Road  
+Dumfries  
 United Kingdom*
 
 ## Experience
