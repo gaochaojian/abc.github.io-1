@@ -15,9 +15,9 @@ United Kingdom*
 
 Working primarily with C#, .Net and Microsoft SQL databases, I worked as part of 
 a team developing several solutions to business problems. I worked on many 
-varied projects, mostly in C# console/service applications and desktop apps, 
-using WPF/Windows Forms, but additionally did work with C++, php and 
-other web technologies like Javascript, HTML, XML, JSON and so on.
+varied projects, mostly in C# console/service applications, MVC web apps and
+desktop apps, using WPF/Windows Forms, but additionally did work with C++, php
+and other web technologies like Javascript, HTML, XML, JSON and so on.
 
 2012-2015
 **IT Infrastructure Technician**, [Bibliographic Data Services, Ltd](www.bdslive.com).
