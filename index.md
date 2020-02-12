@@ -13,7 +13,7 @@ United Kingdom*
 2015-Current
 **Systems Analyst / Programmer**, [Bibliographic Data Services, Ltd](www.bdslive.com).
 
-:Working primarily with C#, .Net and Microsoft SQL databases, I worked as part of 
+Working primarily with C#, .Net and Microsoft SQL databases, I worked as part of 
 a team developing several solutions to business problems. I worked on many 
 varied projects, mostly in C# console/service applications and desktop apps, 
 using WPF/Windows Forms, but additionally did work with C++, php and 
@@ -22,7 +22,7 @@ other web technologies like Javascript, HTML, XML, JSON and so on.
 2012-2015
 **IT Infrastructure Technician**, [Bibliographic Data Services, Ltd](www.bdslive.com).
 
-:As an IT Infrastructure technician at the company I planned and implemented many IT 
+As an IT Infrastructure technician at the company I planned and implemented many IT 
 infrastructure solutions, including creating a new FTP site, a new Exchange 
 organization, the recreation of the company's Active Directory domain, management 
 of their DNS servers, firewalls and other network infrastructure.
@@ -30,7 +30,7 @@ of their DNS servers, firewalls and other network infrastructure.
 2005 (Summer job)
 **Trainee IT Support Engineer,** Alchemist Technologies Ltd.
 
-:I worked alongside other engineers, attending customers on site or diagnosing 
+I worked alongside other engineers, attending customers on site or diagnosing 
 hardware and software issues at our workshop. I performed tasks such as 
 identifying and replacing faulty hardware components, diagnosing and fixing 
 issues with software/operating system configurations and similar.
@@ -46,7 +46,7 @@ issues with software/operating system configurations and similar.
 ## Other Technical Experience
 
 **Athena**, a club management system
-:	I wrote a database/system for use by my local board games club to track 
+	I wrote a database/system for use by my local board games club to track 
 	membership, events, payments, and so on. The project was written in php, 
 	with a MySQL backend database. 
 
