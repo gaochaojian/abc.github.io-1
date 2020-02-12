@@ -1,6 +1,6 @@
 # Alastair Blake Campbell
 
-*alastair.campbell@runbox.no*
+*alastair.campbell@runbox.com*
 
 *(+44) 7889 319122*
 
