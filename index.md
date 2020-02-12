@@ -3,21 +3,9 @@
 *alastair.campbell@runbox.no*
 *(+44) 7889 319122*
 
-*4 Charteries Terrace
-Ryedale Road, Dumfries
+*43 Larchfield Road
+Dumfries
 United Kingdom*
-
-## Education
-
-2013-2015
-	:**BSc, Computing**; University of the West of Scotland (Dumfries)
-
-2011-2013
-	:**HND Computing (Technical Support)**; Dumfries &amp; Galloway College
-(Dumfries)
-
-2006-2011
-	:**Secondary School**; Dumfries Academy (Dumfries)
 
 ## Experience
 
@@ -45,6 +33,14 @@ of their DNS servers, firewalls and other network infrastructure.
 hardware and software issues at our workshop. I performed tasks such as 
 identifying and replacing faulty hardware components, diagnosing and fixing 
 issues with software/operating system configurations and similar.
+
+## Education
+
+2013-2015 (University of the West of Scotland) - **Attained BSc, Computing with Distinction**
+
+2011-2013 (Dumfries &amp; Galloway College) - **Attained an A in HND Computing (Technical Support)**
+
+2006-2011 (Dumfries Academy)
 
 ## Other Technical Experience
 
