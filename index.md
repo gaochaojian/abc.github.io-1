@@ -27,8 +27,8 @@ infrastructure solutions, including creating a new FTP site, a new Exchange
 organization, the recreation of the company's Active Directory domain, management 
 of their DNS servers, firewalls and other network infrastructure.
 
-2005 (Summer job)
-**Trainee IT Support Engineer,** Alchemist Technologies Ltd.
+2010 (Summer job)
+**Trainee IT Support Engineer**, Alchemist Technologies Ltd.
 
 I worked alongside other engineers, attending customers on site or diagnosing 
 hardware and software issues at our workshop. I performed tasks such as 
