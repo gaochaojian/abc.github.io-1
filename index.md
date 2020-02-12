@@ -13,11 +13,10 @@ United Kingdom*
 2015-Current
 **Systems Analyst / Programmer**, [Bibliographic Data Services, Ltd](www.bdslive.com).
 
-Working primarily with C#, .Net and Microsoft SQL databases, I worked as part of 
-a team developing several solutions to business problems. I worked on many 
-varied projects, mostly in C# console/service applications, MVC web apps and
-desktop apps, using WPF/Windows Forms, but additionally did work with C++, php
-and other web technologies like Javascript, HTML, XML, JSON and so on.
+I worked as part of a team developing software to accomplish widely varied tasks, such as MVC Web Applications, Desktop and Mobile Apps, Console/Service Applications, Databases, and more, using a wide array of technology. Primarily I worked with C#, JavaScript/jQuery, JSON, XML, HTML, CSS and Microsoft SQL, but I additionally did a lot of development work with PHP and MySQL. This role also included a lot of server operations work, so I am very comfortable performing administrative tasks on both Windows and Linux servers. Major tasks included:
+
+* Development and maintenance of the company's various APIs, including a REST API.
+* Development and maintenance of one of the company's flagship web applications, a responsive (using Bootstrap) web front-end to their books database.
 
 2012-2015
 **IT Infrastructure Technician**, [Bibliographic Data Services, Ltd](www.bdslive.com).
@@ -50,20 +49,18 @@ issues with software/operating system configurations and similar.
 	membership, events, payments, and so on. The project was written in php, 
 	with a MySQL backend database. 
 
-## Programming Languages
+## Core Skills/Programming Languages
 **C#:** I have worked extensively with C#, both professionally and as a 
 		hobby, developing everything ranging from business applications, 
 		to games, from web forums to simple web servers. I am additionally 
-		fairly experienced with the .Net framework and popular NuGet extensions.
-	
-**Java:** I used Java for many projects at university and use it for a 
-		few side projects in my own time. I am fairly supportive of open 
-		source projects, and I appreciate the cross-platform portability
-		possible with Java.
+		very experienced with the .NET framework and popular NuGet extensions.
 		
-**Web**: I am competent with Javascript, CSS, HTML, php, SQL and some other common
-		web development tools and languages, as well as common data transfer
-		formats such as XML, JSON and YAML.
+**Web**: I have been developing websites and web applications both recreationally and professionally for many years, with a wide array of skills and competencies. I've developed REST API applications and integrated external APIs into other applications. Some of my skills include:
+* HTML, JavaScript, CSS
+* PHP, ASP.Net, Visual Basic
+* MySQL/MariaDB, Microsoft SQL, Firebase, Postgres
+* XML, JSON, YAML
+* Apache, Microsoft IIS, nginx, Lighttpd
 
 Basic knowledge of **C**, **C++**, **x86 assembly**, **Python**, **rust**...
 
